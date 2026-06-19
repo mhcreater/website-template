@@ -84,7 +84,7 @@ workflow:
 call_to_action:
   title: Ready to get started?
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
-  image: /website-template/images/CTA.jpg'
+  image: /website-template/images/call.png'
   button:
     enable: true
     label: "Contact Us"
