@@ -45,7 +45,7 @@ plans:
 call_to_action:
   title: Need a larger plan?
   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
-  image: '/images/cta.svg'
+  image: /website-template/images/cta.svg'
   button:
     enable: true
     label: "Contact Us"
